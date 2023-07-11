@@ -17,3 +17,12 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+```c++
+public class apple {
+}
+
+public void main() {
+   apple MeinApfel = new apple();
+}
+```
